@@ -1,4 +1,5 @@
 death-by-a-1000-javascript-cuts
+AKA = DBATJSCUTS
 ===============================
 
 
@@ -7,7 +8,7 @@ I was reading a blog post from Wes Bos where he was asked a question about how t
 
 
 ## What is it?
-Well bluntly put this repository is for me - it is about me exercising my JavaScript muscles. 
+Well bluntly put this repository is for me - it is about me exercising my JavaScript muscles.
 It is about me having fun and trying out any idea in my head.
 It is what I make it - however I mainly want to do raw/native JS.
 It is about doing what I want to do… Simples
@@ -22,5 +23,3 @@ Coz I can and because an JavaScript Engineer, Wes Bos, recommended to get better
 
 ## What will you find looking at this repository
 I do not know... I've not made it yet :p
-
-
