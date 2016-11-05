@@ -1,0 +1,17 @@
+
+html {
+  background: #333333  no-repeat center center fixed;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#showcase {
+  display: flex;
+  min-height: 99vh;
+  width: 100%;
+}
